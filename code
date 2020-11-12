@@ -1,0 +1,10 @@
+tupL1 = 'hello', 'world','heloo','ezra'
+
+
+tupL2 = 'goodbye','Wold'
+
+print(tupL1[0])
+print(tupL1[1])
+print(tupL1[2])
+print(tupL2[0])
+
