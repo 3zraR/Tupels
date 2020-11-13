@@ -1,0 +1,7 @@
+_list = ['hello', 'world', 'goodbye', 'world', 'pending'] 
+  
+w = [ _list[0], _list[2] ]  
+  
+
+print ("The first and last element of list are : " +  str(w))
+
